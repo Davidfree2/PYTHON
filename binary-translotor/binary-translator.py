@@ -30,9 +30,9 @@ binary_translator = {
     '.': '00101110'
 }
 
-your_string = input(str('type in your name here')).lower()
+your_string = input(str('type in your name here\n')).lower()
 
-print(f'YOUR STRING: {your_string}')
+print(f'\nYOUR STRING: {your_string}')
 print('\nyour binary translation:\n')
 
 for single in your_string:
