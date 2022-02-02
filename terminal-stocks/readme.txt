@@ -20,5 +20,3 @@ after that you can remove the comment text in stockCLI.py but DO NOT REMOVE #!/u
 
 thanks for giving this a try :)
 shoot me a message. let me know what you think
-
-file:///home/david/Documents/projects/PYTHON/terminal-stocks/assets/stockCLI.png
