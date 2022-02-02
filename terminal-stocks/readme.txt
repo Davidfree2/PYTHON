@@ -21,4 +21,4 @@ after that you can remove the comment text in stockCLI.py but DO NOT REMOVE #!/u
 thanks for giving this a try :)
 shoot me a message. let me know what you think
 
-<img src='./assets/stockCLI.png' />
+<img src='assets/stockCLI.png' />
