@@ -2,6 +2,7 @@ import pyqrcode
 import png
 
 
+
 url = pyqrcode.create(input('what url would you like to turn into a qrcode?\nmust include www. and .com\n'))
 
 print('this is your qr code')
